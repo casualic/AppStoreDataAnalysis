@@ -1,5 +1,5 @@
 # AppStoreDataAnalysis
-This Project does a simple analysis of data on the App and Play Stores
+This Project does a Data Analysis on Google and Apple application stores. It aims to identify areas which can be competetive to enter the market. 
 
 
 The Analysis.ipynb contains the Jupyter notebook for the project. 
